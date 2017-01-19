@@ -1,1 +1,1 @@
-ToDoList written in JS using modular architecture.
+ToDoList written using JS, using modular architecture.
